@@ -1,0 +1,546 @@
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+        justify-content: end;
+    }
+}
+
+@media(max-width: 1399px) {
+    button.regular {
+        width: 213px;
+    }
+    .history p {
+        margin-left: 106px;
+    }
+    .history .heading {
+        margin-left: 21%;
+    }
+    .history .image {
+        top: -5%;
+        left: 14%;
+    }
+    .portfolio button.regular {
+        width: 164px;
+    }
+    .testimonial_image_top {
+        top: 13%;
+        left: 7%;
+    }
+    .testimonial_image_bottom {
+        bottom: -11%;
+        right: 7%;
+    }
+    .contact .social_link {
+        padding-left: 38%;
+    }
+}
+
+@media (max-width: 1199px) {
+    button.regular {
+        width: 175px;
+    }
+    .header ul {
+        margin-right: 10%;
+    }
+    .history p {
+        margin-left: 150px;
+    }
+    .history .heading {
+        margin-left: 33%;
+    }
+    .history .image {
+        top: -5%;
+        left: 24%;
+    }
+    .gift .flower_image {
+        right: 50%;
+    }
+    .ticket .ticket_image img {
+        width: 496px;
+    }
+    .ticket {
+        padding: 52px;
+    }
+    .service .item .head.dinner {
+        left: 30%;
+    }
+    .portfolio button.regular {
+        width: 132px;
+    }
+    .portfolio .image h3 {
+        font-size: 18px;
+    }
+    .portfolio .image a {
+        font-size: 11px;
+    }
+    .portfolio .image button {
+        width: 40px;
+        height: 40px;
+        font-size: 17px;
+    }
+    .portfolio {
+        padding: 20px 0;
+    }
+    .testimonial_image_top {
+        top: 11%;
+        left: 7.5%;
+    }
+    .testimonial_image_bottom {
+        bottom: -10%;
+        right: 7%;
+    }
+    .form .airo {
+        font-size: 33px;
+        line-height: 89px;
+    }
+    .form h3 {
+        font-size: 27px;
+    }
+    .form h2 {
+        font-size: 12px;
+    }
+    .contact .social_link {
+        padding-left: 35%;
+    }
+}
+
+@media(max-width: 991px) {
+    button.regular {
+        width: 140px;
+        height: 39px;
+    }
+    .banner .content img {
+        width: 95%;
+    }
+    .banner h1 {
+        font-size: 30px;
+    }
+    .banner h3 {
+        font-size: 38px;
+        margin-bottom: 2px;
+        margin-top: 14px;
+    }
+    .banner p {
+        margin-bottom: 26px;
+    }
+    .banner button {
+        font-size: 12px;
+    }
+    .banner .writting {
+        text-align: right;
+        margin-top: 40px;
+    }
+    .history {
+        padding: 34px 0;
+    }
+    .history .person img {
+        width: 82%;
+    }
+    .history .image {
+        top: -9%;
+        left: -4%;
+    }
+    .history .heading {
+        margin-left: 0;
+    }
+    .history p {
+        margin-left: 0;
+    }
+    .ticket {
+        padding-top: 16px;
+        padding-bottom: 28px;
+    }
+    .ticket .ticket_image img {
+        width: 82%;
+    }
+    .ticket .love img {
+        width: 86%;
+    }
+    .service .love.image {
+        left: 7%;
+        top: -5%;
+    }
+    .service .writting_para {
+        margin-top: 38px;
+    }
+    .portfolio {
+        padding: 28px 0;
+    }
+    .portfolio .love_image {
+        top: 4%;
+        right: 6%;
+    }
+    .portfolio .heading {
+        top: 12%;
+        right: 13%;
+    }
+    .testimonial_image_top {
+        top: 13%;
+        left: 11%;
+    }
+    .testimonial_image_bottom {
+        bottom: -11%;
+        right: 10%;
+    }
+    .form h2 {
+        font-size: 11px;
+    }
+    .form h3 {
+        font-size: 22px;
+    }
+    .form .airo {
+        font-size: 27px;
+        line-height: 87px;
+    }
+    .contact .social_link {
+        padding-left: 27%;
+    }
+}
+
+@media(max-width: 767px) {
+    .banner .content img {
+        width: 117%;
+    }
+    .banner .writting {
+        margin-top: 10px;
+    }
+    .banner .writting {
+        text-align: right;
+        margin-top: 9px;
+    }
+    button.regular {
+        width: 127px;
+        height: 39px;
+    }
+    .history {
+        padding: 22px 0;
+    }
+    .history .person img {
+        width: 78%;
+    }
+    .history .image {
+        position: absolute;
+        top: -7%;
+        left: 3%;
+    }
+    .gift .image {
+        top: 15%;
+        left: 5%;
+    }
+    .gift .content img {
+        width: 82%;
+    }
+    .gift .flower_image img {
+        width: 93%;
+        margin-left: 25%;
+    }
+    .gift .heading h3 {
+        margin-bottom: 32px;
+    }
+    .ticket .love img {
+        width: 86%;
+    }
+    .service {
+        padding: 35px 0;
+    }
+    .service .items {
+        display: inline-block;
+    }
+    .service .content {
+        display: block;
+    }
+    .service h2 {
+        font-size: 17px;
+    }
+    .service h3 {
+        font-size: 20px;
+    }
+    .service .love.image {
+        left: 6%;
+        top: -3%;
+    }
+    .service .love.image img {
+        width: 84%;
+    }
+    .service .writting_para {
+        font-size: 13px;
+        margin-top: 17px;
+    }
+    .service .item .service_image {
+        left: 2%;
+    }
+    .service .item .head {
+        left: 28%;
+        top: 23%;
+    }
+    .service .item .head.dinner {
+        left: 36%;
+    }
+    .portfolio {
+        padding: 50px 0;
+    }
+    .portfolio .image img {
+        width: 71%;
+    }
+    .portfolio .image button {
+        right: 32%;
+        width: 42px;
+        height: 42px;
+        font-size: 19px;
+    }
+    .portfolio .image::after {
+        width: 71%;
+    }
+    .portfolio .image h3 {
+        left: 24%;
+        font-size: 15px;
+    }
+    .portfolio .image a {
+        font-size: 12px;
+    }
+    .portfolio .image a.download {
+        left: 3%;
+    }
+    .portfolio .image a.love {
+        left: 29%;
+    }
+    .portfolio .image a.comment {
+        left: 48%;
+    }
+    .portfolio .writting {
+        text-align: left;
+    }
+    .portfolio .heading {
+        text-align: right;
+    }
+    .portfolio h3 {
+        font-size: 20px;
+    }
+    .portfolio .love_image img {
+        width: 86%;
+    }
+    .portfolio .love_image {
+        top: -3%;
+        right: 3%;
+    }
+    .testimonial_image_top {
+        top: 13%;
+        left: 11%;
+    }
+    .testimonial_image_bottom {
+        bottom: -11%;
+        right: 11%;
+    }
+    .form .airo {
+        font-size: 25px;
+        line-height: 93px;
+    }
+    .form h3 {
+        font-size: 17px;
+    }
+    .form h2 {
+        font-size: 11px;
+    }
+    .form .form-control {
+        margin: 0 15px 24px;
+        font-size: 11px;
+    }
+    .form .form_button {
+        right: -5px;
+        top: 28%;
+    }
+    .form .form_row {
+        margin-top: 136px;
+    }
+    .contact .item {
+        margin: 58px 0 -17px;
+    }
+    .contact .social_link {
+        padding-left: 23%;
+    }
+    .contact .heading h3 {
+        margin-bottom: 14px;
+        margin-top: 40px;
+    }
+    .contact .form_row {
+        padding-left: 51px;
+        text-align: center;
+    }
+    .contact .image {
+        margin-top: 114px;
+    }
+}
+
+@media(max-width: 575px) {
+    button.regular {
+        width: 127px;
+        height: 39px;
+    }
+    .banner .content img {
+        width: 109%;
+    }
+    .banner h3 {
+        font-size: 38px;
+        margin-bottom: 2px;
+    }
+    .banner .writting {
+        margin-top: 38px;
+    }
+    .history .person img {
+        width: 73%;
+    }
+    .history h2 {
+        font-size: 17px;
+    }
+    .history h3 {
+        font-size: 23px;
+    }
+    .history .writting img {
+        width: 80%;
+    }
+    .history .image {
+        top: -6%;
+        left: 4%;
+    }
+    .history p {
+        font-size: 13px;
+    }
+    .gift .image {
+        top: 16%;
+        left: 4%;
+    }
+    .gift .heading h3 {
+        font-size: 19px;
+        margin-bottom: 19px;
+    }
+    .gift .flower_image img {
+        width: 102%;
+        margin-left: 21%;
+    }
+    .gift .buttons {
+        font-size: 14px;
+        margin-top: 9px;
+    }
+    .ticket {
+        padding: 22px 0;
+    }
+    .ticket .ticket_image img {
+        width: 78%;
+    }
+    .ticket h2 {
+        font-size: 17px;
+    }
+    .ticket h3 {
+        font-size: 19px;
+    }
+    .ticket .buttons {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .ticket .love img {
+        width: 80%;
+    }
+    .service {
+        padding: 35px 0;
+    }
+    .service .items {
+        display: inline-block;
+    }
+    .service .content {
+        display: block;
+    }
+    .service h2 {
+        font-size: 17px;
+    }
+    .service h3 {
+        font-size: 20px;
+    }
+    .service .love.image {
+        left: 5%;
+        top: -9%;
+    }
+    .service .love.image img {
+        width: 80%;
+    }
+    .service .writting_para {
+        font-size: 13px;
+        margin-top: 17px;
+    }
+    .service .item .service_image {
+        left: 2%;
+    }
+    .portfolio {
+        padding: 50px 0;
+    }
+    .portfolio .image img {
+        width: 67%;
+    }
+    .portfolio .image button {
+        right: 35%;
+        width: 37px;
+        height: 37px;
+        font-size: 15px;
+    }
+    .portfolio .image::after {
+        width: 67%;
+    }
+    .portfolio .image h3 {
+        left: 20%;
+        font-size: 15px;
+    }
+    .portfolio .image a {
+        font-size: 12px;
+    }
+    .portfolio .image a.download {
+        left: 2%;
+    }
+    .portfolio .image a.love {
+        left: 26%;
+    }
+    .portfolio .image a.comment {
+        left: 46%;
+    }
+    .testimonial .flower img {
+        width: 68%;
+    }
+    .testimonial_image_top {
+        top: 16%;
+        left: -2%;
+    }
+    .testimonial_image_bottom {
+        bottom: -7%;
+        right: -6%;
+    }
+    .form .airo {
+        font-size: 25px;
+        line-height: 93px;
+    }
+    .form h3 {
+        font-size: 17px;
+    }
+    .form h2 {
+        font-size: 11px;
+    }
+    .form .form-control {
+        margin: 0 15px 24px;
+        font-size: 11px;
+    }
+    .form .form_button {
+        right: -5px;
+        top: 28%;
+    }
+    .form .form_row {
+        margin-top: 136px;
+    }
+    .contact .item {
+        margin: 58px 0 -17px;
+    }
+    .contact .social_link {
+        padding-left: 24%;
+    }
+    .contact .heading h3 {
+        margin-bottom: 7px;
+        margin-top: 25px;
+    }
+}
