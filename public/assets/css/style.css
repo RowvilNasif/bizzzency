@@ -1,0 +1,82 @@
+/* ==========defaukt css========== */
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+img {
+    vertical-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+
+/* ========== topbar css ========== */
+
+.topbar {
+    background-color: #0f2f44;
+}
+
+.topbar h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #c9cdd0;
+    line-height: 50px;
+}
+
+.topbar h2.open {
+    text-align: right;
+}
+
+
+/* ========== navbar css ========== */
+
+.navbar ul li {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #ffc712
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #ffc712;
+    background-color: #fff9e6;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0);
+}
+
+.navbar form button.navbutton {
+    border: 1px solid #e0e0e0;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    font-size: 12px;
+    color: #999;
+}
+
+.navbar form button.navbutton.cross {
+    margin-right: 14px;
+    margin-left: 5px;
+}
